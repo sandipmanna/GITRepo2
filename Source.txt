@@ -1,0 +1,11 @@
+1. git tool
+DVCS - Distributed version control system
+
+folder which is managed by git is know as Repository
+
+Folders:
+   a. Object: all the data is checked in is stored here
+
+
+
+2. git integrate with visual studio
