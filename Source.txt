@@ -11,3 +11,5 @@ Folders:
 2. git integrate with visual studio
 
 Biriyani is very popular
+Real name of Biriyani - Veeryani
+Raja Purushotamma served biriyani 
